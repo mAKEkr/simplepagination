@@ -18,3 +18,6 @@ CodeIgniter의 Pagination을 개발자들이 간단하게 사용하기 위하여
 - **current_page**(필수) : 현재 페이지의 값입니다.
 - **last_page**(필수) : 마지막 페이지의 값입니다.
 - **suffix**(선택) : url이 작성된 뒤에 자동으로 삽입될 값입니다.(검색이나 url writing방식이 다를경우 유용합니다)
+
+##라이센스
+Public Domain License를 따릅니다.
